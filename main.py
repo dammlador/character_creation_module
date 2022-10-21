@@ -1,5 +1,5 @@
 from random import randint
-
+# библиотека рандом
 from graphic_arts.start_game_banner import run_screensaver
 
 
